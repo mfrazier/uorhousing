@@ -228,7 +228,6 @@
 +log cabin: 1433 2567 1
 +small tower: 702 973 1
 +villa: 1054 2512 1
-+small house: 1011 649 1
 +tower: 1491 737 1
 +tower: 1310 993 1
 +keep: 989 468 1
@@ -921,7 +920,6 @@
 +small house: 939 1914 1
 +two story house: 988 2305 1
 +small house: 1769 1046 1
-+villa: 877 2258 1
 +small house: 1707 3129 1
 +tower: 2381 3394 1
 +small tower: 4354 1226 1
@@ -1155,7 +1153,6 @@
 +villa: 2103 393 1
 +large house: 1472 844 1
 +villa: 1072 2016 1
-+marble shop: 1855 2962 1
 +patio house: 2539 301 1
 +tower: 2151 249 1
 +villa: 2856 333 1
@@ -1308,7 +1305,6 @@
 +villa: 3467 147 1
 +villa: 2359 1253 1
 +log cabin: 665 771 1
-+marble shop: 4824 3671 1
 +small tower: 786 780 1
 +keep: 1912 3122 1
 +tower: 1278 2566 1
@@ -1547,7 +1543,6 @@
 +small house: 1001 2314 1
 +keep: 2146 505 1
 +log cabin: 2033 921 1
-+patio house: 1421 2571 1
 +small tower: 144 1490 1
 +tower: 2080 1241 1
 +patio house: 873 643 1
@@ -1580,7 +1575,6 @@
 +patio house: 4113 597 1
 +tower: 937 615 1
 +marble shop: 4408 1285 1
-+villa: 700 717 1
 +two story house: 1012 392 1
 +villa: 733 819 1
 +small house: 1887 468 1
@@ -1683,7 +1677,6 @@
 +large house: 1892 511 1
 +small tower: 1741 1193 1
 +villa: 1898 1543 1
-+villa: 778 1861 1
 +tower: 1054 3119 1
 +small house: 1629 3520 1
 +small tower: 1370 543 1
@@ -1695,7 +1688,6 @@
 +small house: 2503 163 1
 +sandstone patio: 1551 1257 1
 +small house: 1785 2642 1
-+large house: 1840 2363 1
 +patio house: 1983 3084 1
 +fortress: 4178 422 1
 +small tower: 1737 3227 1
@@ -1747,7 +1739,6 @@
 +log cabin: 2788 855 1
 +villa: 927 444 1
 +two story house: 1347 2819 1
-+villa: 2572 209 1
 +small tower: 2806 627 1
 +small house: 909 2400 1
 +patio house: 2525 206 1
@@ -1909,7 +1900,6 @@
 +small tower: 959 1681 1
 +small tower: 2789 3559 1
 +villa: 1848 2990 1
-+log cabin: 866 779 1
 +tower: 1577 647 1
 +small house: 4634 1397 1
 +small house: 2342 3457 1
@@ -1936,7 +1926,6 @@
 +stone shop: 1407 2017 1
 +small tower: 908 2533 1
 +villa: 967 412 1
-+small house: 4589 1499 1
 +stone shop: 821 2312 1
 +villa: 2086 3364 1
 +small house: 874 2306 1
@@ -1995,7 +1984,6 @@
 +villa: 2364 1090 1
 +small tower: 2003 1367 1
 +stone shop: 1177 1506 1
-+small house: 2622 854 1
 +small tower: 2854 570 1
 +villa: 1445 2010 1
 +tower: 2079 132 1
@@ -2019,7 +2007,6 @@
 +small house: 2988 415 1
 +tower: 2552 1246 1
 +stone shop: 1843 801 1
-+small house: 1797 231 1
 +villa: 829 702 1
 +small house: 1504 2462 1
 +small tower: 1045 1408 1
@@ -2027,7 +2014,6 @@
 +two story house: 848 1919 1
 +small house: 2053 104 1
 +stone shop: 1837 2998 1
-+large house: 2083 1289 1
 +small tower: 4301 3668 1
 +villa: 1889 1525 1
 +small tower: 1765 2369 1
@@ -2074,8 +2060,6 @@
 +log cabin: 2344 165 1
 +sandstone patio: 4822 3724 1
 +small house: 2649 397 1
-+small house: 2067 93 1
-+small house: 2043 76 1
 +small house: 1346 1406 1
 +villa: 2887 193 1
 +small house: 1659 842 1
@@ -2111,7 +2095,6 @@
 +sandstone patio: 1950 889 1
 +small tower: 1535 1888 1
 +villa: 1337 417 1
-+small house: 789 1860 1
 +small house: 1787 2883 1
 +small house: 2393 942 1
 +small tower: 2532 831 1
@@ -2124,7 +2107,6 @@
 +villa: 847 2259 1
 +small tower: 706 665 1
 +large house: 712 1077 1
-+large house: 2252 941 1
 +small house: 3283 622 1
 +small house: 3295 647 1
 +small house: 1494 1130 1
@@ -2152,17 +2134,29 @@
 +villa: 847 621 1
 +marble shop: 834 727 1
 +marble shop: 1745 3125 1
-+small house: 4648 1319 1
-+stone shop: 1877 951 1
 +marble shop: 2803 712 1
 +stone shop: 2277 427 1
 +small tower: 1411 2534 1
 +small tower: 1105 3043 1
-+small house: 742 2134 1
-+villa: 4415 1432 1
-+tower: 1113 2963 1
 +sandstone patio: 1599 1419 1
 +villa: 2426 1263 1
 +small tower: 2402 1260 1
++small house: 2480 824 1
++villa: 4417 1438 1
++marble shop: 4406 1430 1
++tower: 2091 987 1
++small tower: 718 634 1
++marble shop: 1359 1940 1
++log cabin: 1168 2543 1
++tower: 2087 1282 1
++villa: 877 2260 1
++villa: 776 1861 1
++villa: 789 1861 1
++tower: 1113 2963 1
++villa: 2251 938 1
++small house: 2406 932 1
++small house: 1857 2962 1
++small tower: 4648 1320 1
++small house: 1384 1325 1
 
 +EOF
