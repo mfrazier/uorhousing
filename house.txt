@@ -1,4 +1,5 @@
 +villa: 710 784 1
++large house: 2005 772 1
 +small house: 2373 809 1
 +marble shop: 4424 1346 1
 +tower: 2829 644 1
@@ -18,6 +19,7 @@
 +fortress: 911 2445 1
 +villa: 2177 660 1
 +castle: 2820 495 1
++stone shop: 253 1020 1
 +log cabin: 2224 594 1
 +small tower: 1228 1976 1
 +log cabin: 1229 1994 1
@@ -37,6 +39,7 @@
 +small house: 2991 225 1
 +marble shop: 3711 2522 1
 +small house: 1177 2428 1
++small tower: 3390 531 1
 +fortress: 779 1834 1
 +log cabin: 4646 1486 1
 +log cabin: 2299 1254 1
@@ -75,6 +78,7 @@
 +villa: 679 829 1
 +villa: 1643 2777 1
 +marble patio: 2557 241 1
++tower: 2913 512 1
 +keep: 981 1921 1
 +two story house: 1137 3562 1
 +tower: 2518 123 1
@@ -118,6 +122,7 @@
 +villa: 1794 2964 1
 +small house: 1600 737 1
 +villa: 1195 1390 1
++marble shop: 2235 377 1
 +marble shop: 775 732 1
 +villa: 764 738 1
 +stone shop: 1808 2964 1
@@ -125,7 +130,6 @@
 +keep: 801 1338 1
 +sandstone patio: 4596 3667 1
 +fortress: 1876 2087 1
-+tower: 2493 124 1
 +small house: 2975 204 1
 +marble shop: 1745 1569 1
 +villa: 1994 1492 1
@@ -247,7 +251,6 @@
 +sandstone patio: 3583 2519 1
 +small tower: 4678 1121 1
 +keep: 933 2314 1
-+small house: 783 725 1
 +small tower: 1277 1504 1
 +marble shop: 1377 2754 1
 +patio house: 2116 515 1
@@ -276,6 +279,7 @@
 +villa: 1244 2991 1
 +castle: 1867 1512 1
 +sandstone patio: 4576 3533 1
++small tower: 1205 2134 1
 +keep: 1997 1121 1
 +log cabin: 1277 1521 1
 +fortress: 2131 3127 1
@@ -309,8 +313,6 @@
 +villa: 3377 246 1
 +villa: 1517 2558 1
 +villa: 771 879 1
-+small house: 1351 2907 1
-+small house: 1484 1036 1
 +tower: 1594 851 1
 +small house: 1351 2392 1
 +small house: 1085 3097 1
@@ -322,7 +324,9 @@
 +villa: 1964 2340 1
 +small tower: 1337 1440 1
 +patio house: 981 302 1
++log cabin: 2810 303 1
 +small tower: 1066 2031 1
++small house: 1678 1364 1
 +marble shop: 1855 2975 1
 +tower: 2195 924 1
 +villa: 3905 414 1
@@ -363,8 +367,10 @@
 +log cabin: 1316 2236 1
 +tower: 1749 455 1
 +small house: 1664 1457 1
++villa: 1481 969 1
 +stone shop: 722 821 1
 +small tower: 679 814 1
++villa: 2887 193 1
 +keep: 2070 518 1
 +patio house: 1350 2236 1
 +small tower: 2124 2149 1
@@ -377,6 +383,7 @@
 +small house: 3417 649 1
 +villa: 1780 2741 1
 +small house: 4591 1145 1
++small tower: 1105 3043 1
 +tower: 2068 776 1
 +large house: 1852 1026 1
 +small house: 1821 851 1
@@ -395,7 +402,6 @@
 +keep: 891 2017 1
 +small house: 1079 3192 1
 +marble shop: 1683 1498 1
-+small tower: 1797 2515 1
 +small house: 4663 1386 1
 +small tower: 2807 2137 1
 +tower: 4347 3739 1
@@ -406,6 +412,7 @@
 +stone shop: 4447 1035 1
 +villa: 1075 1077 1
 +large house: 1327 2267 1
++small tower: 793 1729 1
 +small tower: 1834 2963 1
 +small house: 3059 160 1
 +marble shop: 1295 1954 1
@@ -426,6 +433,7 @@
 +small tower: 2197 1984 1
 +villa: 1825 329 1
 +small tower: 1789 3267 1
++small house: 1384 1325 1
 +log cabin: 1705 887 1
 +tower: 2711 392 1
 +villa: 2056 89 1
@@ -446,6 +454,7 @@
 +small tower: 3058 93 1
 +tower: 3026 216 1
 +small tower: 3058 118 1
++small house: 807 2394 1
 +small tower: 4694 1155 1
 +patio house: 1906 2430 1
 +marble shop: 3551 2529 1
@@ -465,12 +474,14 @@
 +keep: 1826 2496 1
 +keep: 4186 631 1
 +keep: 2160 759 1
++small house: 1423 2096 1
 +marble shop: 1810 233 1
 +marble shop: 759 807 1
 +keep: 2016 813 1
 +small house: 1476 881 1
 +small house: 2121 2821 1
 +small tower: 2166 646 1
++log cabin: 1785 2717 1
 +small house: 2664 581 1
 +log cabin: 4400 1457 1
 +small house: 2447 835 1
@@ -489,13 +500,16 @@
 +patio house: 1774 680 1
 +two story house: 1409 2821 1
 +fortress: 3924 386 1
++small tower: 2118 352 1
 +villa: 787 879 1
 +fortress: 820 1070 1
 +small house: 831 2318 1
 +tower: 2420 221 1
 +villa: 2426 825 1
 +large house: 1773 309 1
++small house: 2393 942 1
 +patio house: 4631 3687 1
++tower: 861 2018 1
 +small tower: 2461 1261 1
 +large house: 2317 926 1
 +tower: 1974 3406 1
@@ -518,6 +532,7 @@
 +marble shop: 4595 1279 1
 +marble shop: 1675 1498 1
 +small house: 1823 3022 1
++villa: 2187 837 1
 +fortress: 1966 2311 1
 +marble shop: 4311 1066 1
 +patio house: 2042 543 1
@@ -527,7 +542,6 @@
 +small house: 2644 1244 1
 +two story house: 887 540 1
 +small house: 1374 332 1
-+small tower: 2319 1247 1
 +villa: 735 849 1
 +small house: 1765 2846 1
 +small house: 753 570 1
@@ -566,10 +580,12 @@
 +stone shop: 1873 892 1
 +small house: 1990 3127 1
 +marble shop: 818 770 1
++small house: 2649 397 1
 +small house: 779 2313 1
 +tower: 854 1175 1
 +keep: 4163 591 1
 +log cabin: 4374 1243 1
++log cabin: 1063 1364 1
 +marble shop: 721 805 1
 +tower: 3967 411 1
 +tower: 951 1933 1
@@ -620,6 +636,7 @@
 +tower: 1581 988 1
 +keep: 2037 2015 1
 +villa: 2654 305 1
++stone shop: 1507 2834 1
 +large house: 840 891 1
 +small tower: 2053 1046 1
 +log cabin: 857 916 1
@@ -641,15 +658,18 @@
 +tower: 1807 3506 1
 +tower: 795 815 1
 +small house: 3914 323 1
++log cabin: 2393 3433 1
 +tower: 3446 130 1
 +log cabin: 845 721 1
 +tower: 2910 111 1
 +keep: 2077 1039 1
++small tower: 1845 3224 1
 +small house: 605 1468 1
 +small tower: 4623 3838 1
 +small tower: 2633 56 1
 +stone shop: 1985 1478 1
 +small house: 2060 3125 1
++stone shop: 4409 3186 1
 +small tower: 4569 1157 1
 +patio house: 843 1209 1
 +stone shop: 1213 1915 1
@@ -674,8 +694,10 @@
 +tower: 1742 1418 1
 +small tower: 2765 736 1
 +large house: 1502 2330 1
++marble shop: 2690 635 1
 +stone shop: 1425 2922 1
 +stone shop: 2785 688 1
++log cabin: 1227 765 1
 +small tower: 717 966 1
 +fortress: 3910 259 1
 +keep: 1993 1255 1
@@ -706,15 +728,18 @@
 +tower: 2139 166 1
 +villa: 2989 170 1
 +marble shop: 2802 552 1
++small house: 699 720 1
 +villa: 1651 1091 1
 +large house: 1770 1132 1
 +two story house: 2112 2151 1
++small house: 1681 3288 1
 +small tower: 2068 1017 1
 +sandstone patio: 4568 3319 1
 +small house: 1784 2860 1
 +marble patio: 658 800 1
 +marble shop: 4543 1067 1
 +small house: 4716 1422 1
++villa: 3001 3598 1
 +small house: 2032 588 1
 +marble shop: 3590 2483 1
 +small house: 1027 471 1
@@ -749,6 +774,7 @@
 +small tower: 691 806 1
 +small house: 1354 2128 1
 +small tower: 2053 1015 1
++patio house: 1189 2896 1
 +marble patio: 2228 620 1
 +small house: 763 2323 1
 +small tower: 4203 704 1
@@ -759,10 +785,10 @@
 +log cabin: 2817 446 1
 +keep: 4247 673 1
 +keep: 1797 3178 1
++villa: 1659 2679 1
 +tower: 2092 776 1
 +marble shop: 4311 1090 1
 +small tower: 681 922 1
-+sandstone patio: 2467 831 1
 +small tower: 1950 2376 1
 +two story house: 2811 338 1
 +log cabin: 1557 2362 1
@@ -806,8 +832,8 @@
 +small house: 2001 3119 1
 +marble shop: 2623 872 1
 +tower: 3195 263 1
++log cabin: 1573 949 1
 +small tower: 1963 44 1
-+tower: 1918 535 1
 +fortress: 2165 844 1
 +small tower: 984 998 1
 +small tower: 2558 184 1
@@ -818,7 +844,6 @@
 +fortress: 1738 1005 1
 +keep: 2076 951 1
 +tower: 1928 2365 1
-+small tower: 1585 1251 1
 +stone shop: 3015 231 1
 +villa: 1488 944 1
 +small tower: 2043 3130 1
@@ -839,6 +864,7 @@
 +tower: 3904 221 1
 +tower: 1961 3083 1
 +small house: 2012 3118 1
++small house: 1518 1889 1
 +small tower: 2674 670 1
 +tower: 3023 548 1
 +stone shop: 2829 3500 1
@@ -856,6 +882,7 @@
 +marble shop: 713 831 1
 +tower: 736 867 1
 +tower: 2708 582 1
++small house: 3295 620 1
 +tower: 3246 676 1
 +tower: 2044 776 1
 +marble patio: 3433 647 1
@@ -868,6 +895,7 @@
 +tower: 2065 3107 1
 +small tower: 785 1381 1
 +marble shop: 2699 633 1
++small house: 1869 3070 1
 +small house: 2473 144 1
 +tower: 697 744 1
 +tower: 4035 634 1
@@ -897,6 +925,7 @@
 +tower: 1686 1223 1
 +small house: 939 1914 1
 +two story house: 988 2305 1
++marble shop: 1359 1940 1
 +small house: 1769 1046 1
 +small house: 1707 3129 1
 +tower: 2381 3394 1
@@ -911,6 +940,7 @@
 +log cabin: 1942 802 1
 +large house: 2816 466 1
 +fortress: 3991 516 1
++log cabin: 1387 322 1
 +villa: 1368 780 1
 +tower: 2018 365 1
 +tower: 3963 526 1
@@ -934,9 +964,11 @@
 +tower: 1329 1349 1
 +villa: 1545 630 1
 +keep: 4021 558 1
++two story house: 2353 181 1
 +marble shop: 2811 704 1
 +marble shop: 3586 2588 1
 +log cabin: 709 785 1
++small house: 1255 2709 1
 +tower: 4152 566 1
 +marble shop: 4620 3590 1
 +small tower: 2147 4007 1
@@ -956,7 +988,6 @@
 +marble patio: 929 2129 1
 +fortress: 2086 2330 1
 +villa: 981 1023 1
-+marble shop: 1425 2678 1
 +large house: 1804 2348 1
 +keep: 1870 1476 1
 +villa: 947 1020 1
@@ -970,6 +1001,7 @@
 +tower: 2612 95 1
 +tower: 2634 971 1
 +villa: 4608 1320 1
++small tower: 1863 3211 1
 +tower: 2136 747 1
 +tower: 970 982 1
 +small house: 1893 1560 1
@@ -991,6 +1023,7 @@
 +small tower: 1710 1979 1
 +marble patio: 902 2300 1
 +marble patio: 3446 474 1
++small tower: 806 2382 1
 +sandstone patio: 786 2003 1
 +keep: 4254 715 1
 +small tower: 2697 751 1
@@ -1002,6 +1035,7 @@
 +sandstone patio: 1875 1538 1
 +tower: 3202 497 1
 +tower: 2015 588 1
++tower: 1840 246 1
 +keep: 1956 1061 1
 +tower: 1146 2918 1
 +stone shop: 1945 214 1
@@ -1021,6 +1055,7 @@
 +large house: 1893 3482 1
 +small tower: 2586 983 1
 +small tower: 4695 1121 1
++small tower: 2214 473 1
 +large house: 1346 356 1
 +villa: 1229 2829 1
 +log cabin: 1965 1483 1
@@ -1104,7 +1139,6 @@
 +tower: 2149 947 1
 +villa: 1630 3537 1
 +small house: 1219 3579 1
-+small tower: 2802 735 1
 +small house: 1127 519 1
 +small house: 2642 634 1
 +tower: 2213 661 1
@@ -1181,6 +1215,7 @@
 +marble shop: 4044 308 1
 +small house: 4574 972 1
 +small tower: 3156 372 1
++small house: 1434 1403 1
 +small tower: 3229 678 1
 +tower: 3163 73 1
 +marble shop: 3010 206 1
@@ -1191,11 +1226,13 @@
 +two story house: 4127 356 1
 +small tower: 1183 2984 1
 +patio house: 1518 2768 1
++villa: 2135 343 1
 +keep: 2047 2311 1
 +tower: 805 916 1
 +sandstone patio: 1340 2078 1
 +tower: 2113 369 1
 +villa: 1807 1560 1
++small house: 1816 3034 1
 +stone shop: 1945 3094 1
 +keep: 1885 1190 1
 +fortress: 2033 1035 1
@@ -1205,6 +1242,7 @@
 +small house: 726 835 1
 +small tower: 617 1468 1
 +two story house: 1518 217 1
++log cabin: 2562 1220 1
 +marble shop: 4296 1162 1
 +tower: 1631 574 1
 +tower: 730 1043 1
@@ -1213,7 +1251,6 @@
 +keep: 4024 222 1
 +keep: 718 1899 1
 +villa: 1369 1941 1
-+two story house: 1940 549 1
 +keep: 4174 385 1
 +small tower: 1513 2822 1
 +patio house: 4253 642 1
@@ -1256,6 +1293,7 @@
 +small house: 872 2416 1
 +marble shop: 1846 2935 1
 +small house: 3086 323 1
++villa: 877 2260 1
 +small tower: 173 1511 1
 +small tower: 1690 1396 1
 +tower: 1793 2414 1
@@ -1277,7 +1315,6 @@
 +keep: 1912 3122 1
 +tower: 1278 2566 1
 +keep: 1956 998 1
-+small tower: 4200 431 1
 +small house: 3155 756 1
 +tower: 2103 3121 1
 +large house: 2234 777 1
@@ -1373,6 +1410,7 @@
 +two story house: 1797 3070 1
 +small house: 1693 3116 1
 +small tower: 1844 2540 1
++small house: 2967 320 1
 +tower: 1267 760 1
 +marble shop: 4100 579 1
 +log cabin: 1356 551 1
@@ -1391,6 +1429,7 @@
 +small house: 1312 2175 1
 +tower: 1769 1159 1
 +small tower: 1603 1248 1
++small tower: 1185 2149 1
 +small tower: 3500 2420 1
 +villa: 2151 968 1
 +fortress: 2205 888 1
@@ -1400,6 +1439,7 @@
 +villa: 4117 301 1
 +small house: 1098 3165 1
 +two story house: 2263 586 1
++marble shop: 2803 712 1
 +log cabin: 3582 2608 1
 +small tower: 1100 3219 1
 +tower: 1416 755 1
@@ -1418,13 +1458,13 @@
 +tower: 901 2488 1
 +small house: 813 751 1
 +tower: 1884 2491 1
-+tower: 2913 512 1
 +patio house: 1886 1406 1
 +small house: 2051 1118 1
 +small house: 772 817 1
 +large house: 980 634 1
 +small tower: 2819 3469 1
 +marble patio: 1674 851 1
++small house: 2517 1154 1
 +tower: 1537 1115 1
 +small tower: 1301 2350 1
 +small house: 1119 2674 1
@@ -1468,6 +1508,8 @@
 +small house: 1453 1457 1
 +small tower: 1209 1029 1
 +tower: 1827 2336 1
++sandstone patio: 1770 782 1
++two story house: 1719 465 1
 +sandstone patio: 2661 157 1
 +tower: 2003 2327 1
 +marble shop: 2801 2118 1
@@ -1503,6 +1545,7 @@
 +small house: 1001 2314 1
 +keep: 2146 505 1
 +log cabin: 2033 921 1
++large house: 1852 3295 1
 +small tower: 144 1490 1
 +tower: 2080 1241 1
 +patio house: 873 643 1
@@ -1551,6 +1594,7 @@
 +small house: 4509 1349 1
 +stone shop: 911 2207 1
 +small tower: 1125 3010 1
++small house: 1903 514 1
 +small house: 1643 3532 1
 +small house: 1002 2301 1
 +villa: 2066 1189 1
@@ -1576,21 +1620,27 @@
 +small house: 2014 834 1
 +keep: 1826 2455 1
 +sandstone patio: 728 791 1
++marble shop: 4634 1498 1
 +small tower: 1140 585 1
 +stone shop: 2345 568 1
 +keep: 1143 2740 1
 +marble shop: 2616 921 1
 +small house: 2645 1158 1
++small tower: 3412 291 1
 +small house: 2789 2116 1
 +villa: 1398 311 1
 +patio house: 715 872 1
 +small house: 947 2562 1
 +small house: 1117 955 1
 +tower: 2337 1046 1
++small tower: 789 1457 1
 +villa: 1594 1437 1
++small tower: 4589 1499 1
 +tower: 2008 1096 1
++tower: 986 2181 1
 +sandstone patio: 662 888 1
 +fortress: 2189 796 1
++patio house: 1959 829 1
 +tower: 2052 2348 1
 +patio house: 1423 1157 1
 +fortress: 2654 119 1
@@ -1608,11 +1658,11 @@
 +sandstone patio: 2611 842 1
 +small tower: 4508 1205 1
 +small tower: 4709 3827 1
-+tower: 2269 1073 1
 +villa: 1321 260 1
 +villa: 2133 2084 1
 +marble patio: 4775 3770 1
 +small tower: 681 861 1
++small tower: 2553 733 1
 +log cabin: 1491 1387 1
 +small tower: 933 1111 1
 +tower: 2031 746 1
@@ -1628,7 +1678,9 @@
 +villa: 3282 737 1
 +small tower: 4572 3420 1
 +small tower: 1921 2383 1
++small house: 702 1000 1
 +small house: 4509 1452 1
++two story house: 1937 548 1
 +small tower: 1741 1193 1
 +villa: 1898 1543 1
 +tower: 1054 3119 1
@@ -1636,6 +1688,7 @@
 +small tower: 1370 543 1
 +small house: 4458 3520 1
 +small tower: 4455 3542 1
++small house: 2643 866 1
 +two story house: 1281 779 1
 +small house: 2829 343 1
 +log cabin: 4115 3759 1
@@ -1643,6 +1696,7 @@
 +sandstone patio: 1551 1257 1
 +small house: 1785 2642 1
 +patio house: 1983 3084 1
++marble shop: 4406 1430 1
 +fortress: 4178 422 1
 +small tower: 1737 3227 1
 +patio house: 1009 344 1
@@ -1651,15 +1705,19 @@
 +stone shop: 876 2458 1
 +patio house: 801 1014 1
 +log cabin: 1128 204 1
++small house: 1787 2883 1
 +tower: 1958 1091 1
 +large house: 741 627 1
++small tower: 2454 263 1
 +tower: 3964 244 1
++log cabin: 1529 1969 1
 +small tower: 4318 1177 1
 +small house: 1330 1250 1
 +small tower: 2119 844 1
 +small tower: 4562 3850 1
 +patio house: 822 902 1
 +small tower: 1569 2500 1
++small house: 1448 2681 1
 +tower: 1772 397 1
 +tower: 1706 1394 1
 +small tower: 828 2338 1
@@ -1670,6 +1728,7 @@
 +tower: 1603 570 1
 +patio house: 1240 720 1
 +small tower: 1861 2988 1
++tower: 2087 1282 1
 +stone shop: 1163 3585 1
 +small tower: 2880 583 1
 +tower: 2030 1104 1
@@ -1680,8 +1739,11 @@
 +tower: 3883 275 1
 +patio house: 1839 2232 1
 +small tower: 4617 1154 1
++small house: 2274 887 1
++small house: 2409 932 1
 +fortress: 2478 96 1
 +small house: 2608 76 1
++marble shop: 2924 298 1
 +sandstone patio: 3586 2534 1
 +log cabin: 882 2341 1
 +two story house: 1651 2514 1
@@ -1690,7 +1752,6 @@
 +small house: 2183 322 1
 +log cabin: 2788 855 1
 +villa: 927 444 1
-+two story house: 1347 2819 1
 +small tower: 2806 627 1
 +small house: 909 2400 1
 +patio house: 2525 206 1
@@ -1700,7 +1761,6 @@
 +log cabin: 1494 1029 1
 +small house: 1601 1393 1
 +small tower: 2586 202 1
-+patio house: 1231 404 1
 +tower: 1677 2172 1
 +two story house: 2737 324 1
 +sandstone patio: 4623 1445 1
@@ -1711,7 +1771,6 @@
 +two story house: 814 956 1
 +villa: 2561 94 1
 +tower: 920 425 1
-+small house: 2861 70 1
 +keep: 1894 213 1
 +sandstone patio: 2895 78 1
 +small tower: 1373 1360 1
@@ -1733,6 +1792,7 @@
 +small tower: 2492 164 1
 +small tower: 721 614 1
 +small tower: 2270 570 1
++small house: 2948 477 1
 +small tower: 4529 1312 1
 +fortress: 4064 631 1
 +tower: 845 1717 1
@@ -1740,12 +1800,14 @@
 +log cabin: 1713 2215 1
 +small tower: 742 646 1
 +stone shop: 2593 75 1
++villa: 2339 787 1
 +small house: 1204 3454 1
 +small house: 1644 748 1
 +log cabin: 2604 326 1
 +log cabin: 3974 217 1
 +villa: 2530 281 1
 +tower: 2284 990 1
++small tower: 2532 831 1
 +small tower: 745 1401 1
 +small house: 2543 3601 1
 +small tower: 1757 295 1
@@ -1760,6 +1822,7 @@
 +small tower: 1564 2057 1
 +small house: 1834 3035 1
 +small house: 2675 296 1
++small house: 1857 2962 1
 +small house: 4473 3643 1
 +small tower: 987 672 1
 +small tower: 1940 103 1
@@ -1768,6 +1831,7 @@
 +log cabin: 1058 2345 1
 +small house: 4322 1126 1
 +tower: 1517 684 1
++small house: 1633 3028 1
 +small house: 734 849 1
 +tower: 2732 380 1
 +keep: 2108 2377 1
@@ -1798,7 +1862,6 @@
 +small tower: 4342 1129 1
 +marble patio: 4827 3654 1
 +small tower: 4615 3322 1
-+small tower: 1973 1070 1
 +small house: 821 2401 1
 +tower: 1997 645 1
 +tower: 825 990 1
@@ -1806,8 +1869,8 @@
 +tower: 1005 2654 1
 +small tower: 2678 1100 1
 +villa: 783 657 1
-+small house: 2552 730 1
 +log cabin: 844 2436 1
++small house: 2729 632 1
 +fortress: 4146 386 1
 +small house: 2361 957 1
 +villa: 2643 382 1
@@ -1817,23 +1880,25 @@
 +villa: 1747 617 1
 +small house: 1931 3404 1
 +log cabin: 1817 395 1
-+small tower: 1519 1120 1
 +patio house: 3943 257 1
 +sandstone patio: 873 2240 1
 +two story house: 4258 742 1
++small house: 2801 736 1
 +stone shop: 1488 1875 1
 +small house: 1829 406 1
 +marble patio: 2804 1020 1
++small tower: 4648 1320 1
 +small house: 1801 368 1
 +small house: 1833 375 1
++small house: 1182 3485 1
 +small house: 3994 588 1
 +small house: 210 1370 1
 +small house: 2165 3957 1
++stone shop: 2277 427 1
 +tower: 4150 415 1
 +stone shop: 2582 939 1
 +small house: 4635 1379 1
 +tower: 2090 821 1
-+small house: 4625 1373 1
 +villa: 4085 348 1
 +two story house: 1569 900 1
 +marble patio: 2454 159 1
@@ -1849,16 +1914,18 @@
 +tower: 1577 647 1
 +small house: 2342 3457 1
 +tower: 1486 1010 1
-+log cabin: 1307 2868 1
 +small tower: 2707 633 1
 +small house: 1823 2240 1
++small house: 4383 1257 1
 +large house: 1805 389 1
++small house: 4561 1120 1
 +small tower: 966 1695 1
 +villa: 2127 715 1
 +small tower: 4240 532 1
 +keep: 942 1674 1
 +patio house: 1907 1137 1
 +marble shop: 4608 3297 1
++small house: 1653 2201 1
 +tower: 1883 1134 1
 +villa: 1323 660 1
 +tower: 385 1325 1
@@ -1875,14 +1942,20 @@
 +villa: 2086 3364 1
 +small house: 874 2306 1
 +stone shop: 1324 2584 1
++large house: 1811 2273 1
 +log cabin: 820 2188 1
++sandstone patio: 1992 144 1
 +small house: 4265 3729 1
 +patio house: 2021 1069 1
 +patio house: 1711 3178 1
++sandstone patio: 704 699 1
 +large house: 1937 1006 1
 +tower: 1052 1388 1
 +sandstone patio: 1640 266 1
 +sandstone patio: 2218 3373 1
++large house: 1835 2261 1
++villa: 1443 909 1
++small house: 702 1026 1
 +log cabin: 798 849 1
 +small tower: 1002 1322 1
 +sandstone patio: 1411 1967 1
@@ -1891,12 +1964,17 @@
 +log cabin: 1934 355 1
 +small tower: 2646 344 1
 +sandstone patio: 2071 114 1
++villa: 1167 2543 1
 +small tower: 4605 1449 1
++keep: 1930 2305 1
++villa: 1484 1051 1
++small tower: 744 697 1
 +small tower: 2690 2335 1
 +small house: 1122 532 1
 +marble shop: 4563 3185 1
 +patio house: 2125 2293 1
 +villa: 4513 3139 1
++small tower: 1194 2068 1
 +marble shop: 2308 1249 1
 +small house: 927 2156 1
 +small house: 2831 2140 1
@@ -1908,6 +1986,7 @@
 +small tower: 2154 478 1
 +small tower: 2641 2325 1
 +small house: 220 1379 1
++small house: 2029 75 1
 +sandstone patio: 1915 3417 1
 +marble shop: 3357 349 1
 +sandstone patio: 912 921 1
@@ -1917,260 +1996,190 @@
 +small tower: 1327 1967 1
 +stone shop: 1810 3000 1
 +small house: 4440 3551 1
++villa: 1491 919 1
 +small house: 2949 56 1
 +small tower: 2320 878 1
 +small house: 1732 3524 1
 +stone shop: 1113 2335 1
 +large house: 4277 724 1
++tower: 1789 2273 1
 +villa: 2364 1090 1
 +small tower: 2003 1367 1
 +stone shop: 1177 1506 1
++villa: 1049 2492 1
 +small tower: 2854 570 1
++marble shop: 4183 448 1
 +villa: 1445 2010 1
 +tower: 2079 132 1
 +small house: 1070 1404 1
 +small tower: 2126 559 1
 +small tower: 1277 1421 1
++small tower: 3280 237 1
 +small tower: 2045 61 1
-+two story house: 1347 2564 1
++tower: 2492 124 1
++keep: 1149 2851 1
 +small tower: 990 659 1
++small house: 1346 1406 1
 +marble shop: 1795 2943 1
 +stone shop: 685 692 1
 +marble shop: 805 875 1
 +marble patio: 697 648 1
 +small house: 1758 2281 1
 +small house: 3195 147 1
++small tower: 718 634 1
 +small tower: 4308 1159 1
 +small house: 4522 3981 1
 +large house: 1694 556 1
 +small house: 2988 415 1
 +tower: 2552 1246 1
 +stone shop: 1843 801 1
++small tower: 3366 298 1
 +villa: 829 702 1
++small house: 784 830 1
++large house: 3333 656 1
++log cabin: 3293 689 1
++large house: 1601 1033 1
++small house: 1437 1261 1
 +small house: 1504 2462 1
 +small house: 2783 2252 1
 +two story house: 848 1919 1
-+small house: 2053 104 1
++small house: 2550 829 1
 +stone shop: 1837 2998 1
++two story house: 4755 3487 1
++villa: 933 2436 1
++tower: 2091 987 1
++small tower: 1809 2296 1
 +small tower: 4301 3668 1
 +villa: 1889 1525 1
-+small tower: 1765 2369 1
-+large house: 999 2414 1
-+large house: 1811 2273 1
-+tower: 1789 2273 1
-+large house: 1852 3295 1
-+small tower: 3366 298 1
-+large house: 3333 656 1
-+log cabin: 3293 689 1
-+small house: 2948 477 1
-+small house: 2729 632 1
-+log cabin: 1785 2717 1
-+small house: 1612 1112 1
-+log cabin: 1227 765 1
-+villa: 1491 919 1
-+villa: 904 2040 1
-+sandstone patio: 1992 144 1
-+small house: 1518 1889 1
-+small house: 966 2413 1
-+large house: 1601 1033 1
-+small house: 1816 3034 1
-+log cabin: 1573 949 1
-+small house: 2309 3483 1
-+small house: 833 752 1
-+marble shop: 2924 298 1
 +small tower: 773 830 1
-+small house: 784 830 1
-+small tower: 2675 2326 1
-+stone shop: 4228 508 1
-+large house: 1794 2329 1
-+small house: 1437 1261 1
-+tower: 986 2181 1
-+stone shop: 3338 338 1
-+small house: 2045 109 1
-+stone shop: 1953 859 1
-+small tower: 2095 108 1
-+small house: 2649 397 1
-+small house: 1346 1406 1
-+villa: 2887 193 1
-+small house: 1659 842 1
-+villa: 905 2256 1
-+large house: 1835 2261 1
++small house: 3283 622 1
++small tower: 1765 2369 1
++small house: 2309 3483 1
++large house: 999 2414 1
++small house: 1429 3215 1
++small house: 1612 1112 1
++villa: 1933 1135 1
++villa: 904 2040 1
++small house: 833 752 1
 +small house: 1474 1150 1
-+small house: 1681 3288 1
++villa: 847 2259 1
++tower: 1999 1057 1
++stone shop: 4228 508 1
++small tower: 4434 3197 1
++large house: 1794 2329 1
++small tower: 2675 2326 1
++tower: 1655 566 1
++small house: 1031 2613 1
++stone shop: 3338 338 1
++small tower: 1567 2787 1
++small house: 1659 842 1
++small house: 1625 1111 1
++stone shop: 1953 859 1
++small tower: 3472 601 1
++small tower: 2095 108 1
++small house: 801 2368 1
++sandstone patio: 1599 1419 1
 +marble patio: 2069 834 1
-+tower: 1669 1385 1
-+stone shop: 1863 918 1
-+marble shop: 4634 1498 1
-+small house: 702 1026 1
-+small house: 702 1000 1
-+patio house: 2092 516 1
-+small house: 1643 1110 1
-+sandstone patio: 608 1709 1
-+large house: 3050 240 1
-+large house: 912 956 1
-+small tower: 806 2394 1
-+small tower: 806 2382 1
-+tower: 824 2384 1
-+keep: 848 2378 1
-+villa: 961 2173 1
 +tower: 2268 913 1
-+log cabin: 1529 1969 1
++tower: 3183 367 1
++small house: 891 2240 1
++two story house: 1644 2675 1
++villa: 717 1946 1
++large house: 912 956 1
++large house: 3050 240 1
++villa: 961 2173 1
++villa: 905 2256 1
++small house: 1574 878 1
++tower: 824 2384 1
++small house: 1221 2700 1
++small house: 1643 1110 1
++tower: 1669 1385 1
++sandstone patio: 218 1403 1
++patio house: 1165 2876 1
++patio house: 2092 516 1
++sandstone patio: 608 1709 1
++villa: 4417 1438 1
++small tower: 806 2394 1
++small house: 2004 3410 1
++keep: 848 2378 1
++small tower: 242 1026 1
++villa: 1337 417 1
++small tower: 1535 1888 1
 +small tower: 2723 1120 1
 +sandstone patio: 1950 889 1
-+small tower: 1535 1888 1
-+villa: 1337 417 1
-+small house: 1787 2883 1
-+small house: 2393 942 1
-+small tower: 2532 831 1
-+log cabin: 2393 3433 1
-+tower: 3183 367 1
-+keep: 1930 2305 1
-+small house: 2004 3410 1
-+marble shop: 1711 1200 1
-+small house: 1255 2709 1
-+villa: 847 2259 1
-+large house: 712 1077 1
-+small house: 3283 622 1
-+two story house: 4755 3487 1
-+small house: 1649 3566 1
-+villa: 1481 969 1
-+small house: 1429 3215 1
-+villa: 2146 2158 1
-+small tower: 839 2096 1
-+small house: 1182 3485 1
-+small house: 1625 1111 1
-+villa: 1484 1051 1
-+small house: 1307 917 1
-+marble shop: 2690 635 1
 +villa: 849 2076 1
-+small house: 1544 1888 1
-+small house: 891 2240 1
-+sandstone patio: 1867 3216 1
++marble shop: 1711 1200 1
 +villa: 847 621 1
-+marble shop: 2803 712 1
-+stone shop: 2277 427 1
-+small tower: 1411 2534 1
-+small tower: 1105 3043 1
-+sandstone patio: 1599 1419 1
-+villa: 2426 1263 1
-+small tower: 2402 1260 1
-+villa: 4417 1438 1
-+marble shop: 4406 1430 1
-+tower: 2091 987 1
-+small tower: 718 634 1
-+marble shop: 1359 1940 1
-+tower: 2087 1282 1
-+villa: 877 2260 1
-+villa: 776 1861 1
-+villa: 789 1861 1
-+small house: 1857 2962 1
-+small tower: 4648 1320 1
-+small house: 1384 1325 1
-+small tower: 3472 601 1
-+villa: 933 2436 1
-+small house: 1605 3470 1
-+villa: 717 1946 1
-+small house: 1221 2700 1
-+small tower: 1809 2296 1
-+tower: 1793 2295 1
-+keep: 1149 2851 1
-+small house: 756 758 1
-+small tower: 721 695 1
-+small tower: 744 697 1
-+villa: 1049 2492 1
-+villa: 1051 1305 1
-+villa: 3001 3598 1
-+marble shop: 1915 910 1
-+small tower: 1185 2149 1
-+small tower: 1194 2068 1
-+tower: 861 2018 1
-+villa: 1443 909 1
-+small tower: 242 1026 1
-+stone shop: 253 1020 1
-+small tower: 2454 263 1
-+small house: 2274 887 1
-+log cabin: 2562 1220 1
-+small tower: 4589 1499 1
-+small house: 1131 2873 1
-+small tower: 1450 1911 1
-+marble shop: 2235 377 1
-+log cabin: 1387 322 1
-+sandstone patio: 1779 2387 1
-+small tower: 793 1729 1
-+villa: 1167 2543 1
-+small house: 801 2368 1
-+small tower: 2214 473 1
-+tower: 207 1387 1
-+sandstone patio: 218 1403 1
-+marble shop: 2694 140 1
-+small house: 2409 932 1
-+log cabin: 1063 1364 1
-+small house: 2605 935 1
-+villa: 2339 787 1
-+small house: 1583 555 1
-+villa: 699 717 1
-+sandstone patio: 705 664 1
-+large house: 4695 3458 1
-+small house: 4561 1120 1
-+small house: 1633 3028 1
-+small tower: 706 694 1
-+small house: 665 730 1
-+sandstone patio: 1924 1223 1
-+log cabin: 1278 1336 1
-+tower: 1999 1057 1
-+small house: 1115 2734 1
-+small house: 2550 829 1
-+small tower: 1845 3224 1
-+patio house: 1165 2876 1
-+stone shop: 1507 2834 1
-+marble shop: 4385 1220 1
-+large house: 2254 938 1
-+small house: 1574 878 1
-+small house: 2517 1154 1
-+small house: 2537 1032 1
-+small house: 2643 866 1
-+tower: 1655 566 1
-+small house: 1448 2681 1
-+tower: 1886 505 1
-+small house: 1122 2749 1
-+marble shop: 1894 805 1
-+small house: 1898 2928 1
-+tower: 1973 1123 1
-+small house: 1423 2096 1
-+stone shop: 4409 3186 1
-+small tower: 4434 3197 1
-+stone shop: 1442 2947 1
-+small house: 1903 515 1
-+keep: 2206 848 1
-+villa: 1659 2679 1
-+villa: 822 373 1
-+small house: 3295 620 1
-+villa: 2187 837 1
-+villa: 2187 854 1
-+villa: 2226 854 1
-+large house: 2005 772 1
-+small house: 2008 136 1
-+small tower: 1233 2158 1
-+small tower: 1205 2134 1
-+small house: 1869 3070 1
-+two story house: 1719 465 1
-+small house: 2029 75 1
-+log cabin: 2706 730 1
-+small house: 1190 1480 1
-+small house: 1434 1403 1
-+tower: 909 848 1
-+log cabin: 754 861 1
-+small house: 2658 410 1
-+small house: 4383 1257 1
-+small house: 986 1863 1
-+keep: 1864 255 1
-+tower: 1840 246 1
-+tower: 1277 663 1
-+small tower: 3280 237 1
++villa: 2146 2158 1
++small house: 1649 3566 1
++small tower: 839 2096 1
++small house: 1544 1888 1
 +tower: 4225 708 1
 +log cabin: 807 562 1
-+marble shop: 4183 448 1
-+large house: 1189 709 1
++large house: 2254 938 1
++large house: 712 1077 1
++small house: 1131 2873 1
++log cabin: 2706 730 1
++villa: 789 1861 1
++small house: 2008 136 1
++villa: 776 1861 1
++tower: 207 1387 1
++small tower: 721 695 1
++keep: 2206 848 1
++small tower: 1411 2534 1
++patio house: 2268 1073 1
++small house: 756 758 1
++sandstone patio: 1779 2387 1
++small house: 1605 3470 1
++tower: 1793 2295 1
++sandstone patio: 1875 853 1
++small tower: 1450 1911 1
++tower: 1973 1123 1
++villa: 1051 1305 1
 +patio house: 1421 2570 1
++log cabin: 1278 1336 1
++small house: 1898 2928 1
++small house: 2658 410 1
++tower: 1886 505 1
++small tower: 1381 2081 1
++large house: 4695 3458 1
++small house: 2537 1032 1
++small house: 2605 935 1
++marble shop: 4385 1220 1
++small house: 1583 555 1
++sandstone patio: 705 664 1
++small house: 1190 1480 1
++marble shop: 1915 910 1
++sandstone patio: 1924 1223 1
++log cabin: 754 861 1
++small house: 1115 2734 1
++tower: 909 848 1
++tower: 1277 663 1
++stone shop: 1442 2947 1
++villa: 2226 854 1
++villa: 2187 854 1
++keep: 1864 255 1
++marble shop: 2045 110 1
++small house: 1425 2674 1
++large house: 1189 709 1
++small house: 733 686 1
++large house: 1114 2963 1
++stone shop: 3273 406 1
++marble shop: 783 725 1
++marble shop: 3931 431 1
++sandstone patio: 967 2413 1
++sandstone patio: 4032 580 1
++stone shop: 4661 1195 1
++villa: 823 373 1
++marble shop: 1523 2964 1
++villa: 1297 2505 1
++small tower: 2319 1248 1
++sandstone patio: 4570 3169 1
++small house: 2394 1258 1
++small tower: 1671 3569 1
++tower: 1916 535 1
++small tower: 1208 2938 1
++small house: 1784 359 1
++stone shop: 1735 2728 1
 
 +EOF
