@@ -1151,7 +1151,6 @@
 +tower: 783 1474 1
 +small tower: 1475 3057 1
 +villa: 4838 3588 1
-+small tower: 1954 362 1
 +log cabin: 3233 147 1
 +small house: 2543 363 1
 +keep: 1660 756 1
@@ -1798,7 +1797,6 @@
 +patio house: 3943 257 1
 +sandstone patio: 873 2240 1
 +two story house: 4258 742 1
-+small house: 2801 736 1
 +stone shop: 1488 1875 1
 +small house: 1829 406 1
 +marble patio: 2804 1020 1
@@ -1942,7 +1940,6 @@
 +small tower: 1765 2369 1
 +small house: 2309 3483 1
 +large house: 999 2414 1
-+small house: 1612 1112 1
 +villa: 1933 1135 1
 +villa: 904 2040 1
 +small house: 833 752 1
@@ -1954,7 +1951,6 @@
 +tower: 1655 566 1
 +stone shop: 3338 338 1
 +small house: 1659 842 1
-+small house: 1625 1111 1
 +stone shop: 1953 859 1
 +small tower: 2095 108 1
 +small house: 801 2368 1
@@ -2013,7 +2009,6 @@
 +large house: 4695 3458 1
 +small house: 2537 1032 1
 +small house: 2605 935 1
-+small house: 1583 555 1
 +sandstone patio: 705 664 1
 +marble shop: 1915 910 1
 +small house: 1115 2734 1
@@ -2085,7 +2080,6 @@
 +tower: 1486 1010 1
 +small tower: 1494 1029 1
 +small tower: 2625 709 1
-+marble shop: 4633 3513 1
 +small house: 2477 3558 1
 +tower: 1194 715 1
 +marble patio: 2087 978 1
@@ -2138,7 +2132,6 @@
 +sandstone patio: 697 680 1
 +small house: 1453 1084 1
 +small tower: 1927 3436 1
-+small tower: 2458 1086 1
 +log cabin: 847 2078 1
 +marble shop: 1948 927 1
 +stone shop: 992 2136 1
@@ -2170,10 +2163,7 @@
 +villa: 1465 2450 1
 +small house: 1439 2344 1
 +small house: 1291 2075 1
-+marble shop: 4073 597 1
 +small tower: 4711 3451 1
-+marble shop: 4010 200 1
-+marble shop: 1893 920 1
 +villa: 932 404 1
 +small tower: 1023 2594 1
 +villa: 4576 3151 1
@@ -2189,5 +2179,16 @@
 +log cabin: 1309 675 1
 +marble shop: 1865 919 1
 +marble shop: 2000 842 1
++small house: 1197 2068 1
++small tower: 2800 737 1
++two story house: 2201 2147 1
++small house: 1569 2160 1
++small house: 2189 2169 1
++stone shop: 1597 2129 1
++small house: 1502 1876 1
++small tower: 1537 1921 1
++small house: 1618 1113 1
++small house: 720 620 1
++small house: 729 611 1
 
 +EOF
