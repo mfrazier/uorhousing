@@ -368,7 +368,6 @@
 +villa: 1780 2741 1
 +small house: 4591 1145 1
 +small tower: 1105 3043 1
-+tower: 2068 776 1
 +large house: 1852 1026 1
 +small house: 1821 851 1
 +fortress: 961 1244 1
@@ -727,7 +726,6 @@
 +keep: 2058 985 1
 +small tower: 1803 3267 1
 +small tower: 691 806 1
-+small house: 1354 2128 1
 +small tower: 2053 1015 1
 +marble patio: 2228 620 1
 +small house: 763 2323 1
@@ -737,7 +735,6 @@
 +log cabin: 2817 446 1
 +keep: 4247 673 1
 +villa: 1659 2679 1
-+tower: 2092 776 1
 +marble shop: 4311 1090 1
 +small tower: 681 922 1
 +small tower: 1950 2376 1
@@ -827,7 +824,6 @@
 +tower: 736 867 1
 +tower: 2708 582 1
 +tower: 3246 676 1
-+tower: 2044 776 1
 +marble patio: 3433 647 1
 +patio house: 1164 265 1
 +small house: 3520 2566 1
@@ -1865,11 +1861,9 @@
 +stone shop: 3338 338 1
 +small house: 1659 842 1
 +stone shop: 1953 859 1
-+small tower: 2095 108 1
 +small house: 801 2368 1
 +tower: 2268 913 1
 +tower: 3183 367 1
-+small house: 891 2240 1
 +two story house: 1644 2675 1
 +villa: 717 1946 1
 +large house: 912 956 1
@@ -1953,7 +1947,6 @@
 +small house: 1834 375 1
 +small tower: 2077 1038 1
 +tower: 2060 1035 1
-+two story house: 1578 648 1
 +small tower: 3413 289 1
 +villa: 1147 164 1
 +small house: 1171 171 1
@@ -1978,7 +1971,6 @@
 +marble shop: 1510 2848 1
 +tower: 1793 3003 1
 +tower: 1792 3025 1
-+stone shop: 174 1511 1
 +small tower: 2868 337 1
 +small house: 2070 2094 1
 +tower: 2552 1246 1
@@ -2058,7 +2050,6 @@
 +small house: 1502 1876 1
 +small tower: 1537 1921 1
 +small house: 720 620 1
-+small house: 729 611 1
 +marble shop: 1755 2804 1
 +small house: 1505 2771 1
 +tower: 2556 73 1
@@ -2137,7 +2128,6 @@
 +small house: 2622 850 1
 +small house: 3045 336 1
 +sandstone patio: 1891 919 1
-+sandstone patio: 2039 112 1
 +marble patio: 1834 2360 1
 +keep: 1795 3171 1
 +small house: 1893 3128 1
@@ -2171,7 +2161,23 @@
 +villa: 2019 117 1
 +log cabin: 1927 2192 1
 +small tower: 1920 2977 1
-+small house: 2493 1129 1
 +small tower: 4202 704 1
++tower: 1576 648 1
++small house: 1289 645 1
++sandstone patio: 1872 853 1
++small house: 1860 2989 1
++small tower: 4260 3709 1
++small house: 2453 3936 1
++small tower: 962 2597 1
++log cabin: 1713 2214 1
++small house: 1497 1362 1
++small tower: 2151 3114 1
++small tower: 2151 3128 1
++small house: 1693 2635 1
++tower: 2094 776 1
++tower: 2070 776 1
++tower: 2046 776 1
++small house: 2554 769 1
++small tower: 2039 111 1
 
 +EOF
