@@ -1545,7 +1545,6 @@
 +villa: 2213 279 1
 +small house: 864 2308 1
 +keep: 1934 378 1
-+villa: 1215 2151 1
 +sandstone patio: 1405 1153 1
 +villa: 2003 1426 1
 +large house: 1354 2275 1
@@ -1633,7 +1632,6 @@
 +log cabin: 1069 1097 1
 +marble shop: 2729 665 1
 +tower: 4734 3469 1
-+small tower: 3477 541 1
 +small house: 718 782 1
 +log cabin: 1912 211 1
 +tower: 4179 661 1
@@ -1661,7 +1659,6 @@
 +large house: 680 723 1
 +patio house: 1797 3133 1
 +small tower: 2154 588 1
-+villa: 1724 2212 1
 +small tower: 1564 2057 1
 +small house: 1834 3035 1
 +small house: 2675 296 1
@@ -1728,7 +1725,6 @@
 +small house: 210 1370 1
 +stone shop: 2277 427 1
 +tower: 4150 415 1
-+small house: 4635 1379 1
 +villa: 4085 348 1
 +two story house: 1569 900 1
 +marble patio: 2454 159 1
@@ -1822,7 +1818,6 @@
 +tower: 2492 124 1
 +keep: 1149 2851 1
 +small tower: 990 659 1
-+small house: 1346 1406 1
 +marble shop: 1795 2943 1
 +stone shop: 685 692 1
 +small house: 1758 2281 1
@@ -2060,7 +2055,6 @@
 +small tower: 1569 1333 1
 +log cabin: 1069 1402 1
 +villa: 1761 419 1
-+small house: 2027 528 1
 +small tower: 2156 473 1
 +small tower: 835 730 1
 +small tower: 2147 2070 1
@@ -2094,7 +2088,6 @@
 +small tower: 2606 935 1
 +small tower: 4529 1312 1
 +two story house: 2114 1956 1
-+small tower: 2532 73 1
 +tower: 696 648 1
 +small house: 1490 903 1
 +small tower: 2134 1960 1
@@ -2122,10 +2115,8 @@
 +sandstone patio: 1891 919 1
 +marble patio: 1834 2360 1
 +keep: 1795 3171 1
-+small house: 1893 3128 1
 +small house: 1873 3111 1
 +small house: 1874 3125 1
-+small house: 1883 3127 1
 +small house: 4389 1245 1
 +large house: 1889 3111 1
 +large house: 4485 3314 1
@@ -2181,7 +2172,16 @@
 +log cabin: 934 462 1
 +villa: 4230 509 1
 +marble patio: 1981 2339 1
-+small tower: 1393 1112 1
-+villa: 1152 2778 1
++villa: 3265 101 1
++small house: 1794 3150 1
++villa: 1888 3129 1
++villa: 1724 2212 1
++large house: 2056 2174 1
++small tower: 1125 1066 1
++small house: 822 2125 1
++small house: 1633 3028 1
++small house: 2536 73 1
++villa: 1215 2151 1
++small tower: 2236 446 1
 
 +EOF
