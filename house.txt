@@ -1862,7 +1862,6 @@
 +keep: 1864 255 1
 +small house: 1425 2674 1
 +small house: 733 686 1
-+stone shop: 3273 406 1
 +marble shop: 783 725 1
 +sandstone patio: 967 2413 1
 +marble shop: 1523 2964 1
@@ -1893,7 +1892,6 @@
 +tower: 2060 1035 1
 +small tower: 3413 289 1
 +villa: 1147 164 1
-+small house: 1171 171 1
 +small tower: 1513 2822 1
 +villa: 1435 1405 1
 +two story house: 1347 2564 1
@@ -1901,7 +1899,6 @@
 +small house: 1823 3079 1
 +marble shop: 4385 1216 1
 +marble shop: 4385 1229 1
-+villa: 1695 2851 1
 +small house: 1925 2076 1
 +villa: 1940 2076 1
 +tower: 1486 1010 1
@@ -1935,7 +1932,6 @@
 +log cabin: 1058 2346 1
 +stone shop: 1115 2335 1
 +small house: 711 1378 1
-+stone shop: 1391 2939 1
 +stone shop: 2581 939 1
 +villa: 2569 963 1
 +small house: 1536 1888 1
@@ -1946,10 +1942,7 @@
 +small house: 1453 1084 1
 +small tower: 1927 3436 1
 +log cabin: 847 2078 1
-+marble shop: 1948 927 1
 +small house: 1628 1325 1
-+small house: 1578 1333 1
-+stone shop: 2343 1265 1
 +large house: 1793 2654 1
 +small house: 3054 562 1
 +patio house: 2531 282 1
@@ -2011,7 +2004,6 @@
 +large house: 4449 3248 1
 +villa: 4046 505 1
 +log cabin: 765 701 1
-+small house: 607 1708 1
 +sandstone patio: 779 692 1
 +small tower: 1034 1363 1
 +villa: 1425 398 1
@@ -2025,7 +2017,6 @@
 +tower: 2038 839 1
 +tower: 2003 772 1
 +patio house: 2137 342 1
-+two story house: 2055 1933 1
 +small house: 3995 604 1
 +marble shop: 2357 1189 1
 +small tower: 2606 935 1
@@ -2170,7 +2161,6 @@
 +villa: 790 477 1
 +small house: 2385 755 1
 +villa: 873 1107 1
-+small house: 2571 237 1
 +keep: 2793 1017 1
 +tower: 2769 1021 1
 +keep: 2721 1017 1
@@ -2186,7 +2176,17 @@
 +small tower: 1035 538 1
 +small tower: 1520 3256 1
 +small tower: 2478 823 1
-+small house: 1599 1028 1
 +small house: 1874 3112 1
++small house: 2060 1932 1
++small house: 1180 3485 1
++large house: 1601 1034 1
++log cabin: 1493 3105 1
++sandstone patio: 816 770 1
++sandstone patio: 815 752 1
++small house: 833 755 1
++villa: 699 719 1
++small tower: 1594 1421 1
++small house: 963 854 1
++stone shop: 757 697 1
 
 +EOF
