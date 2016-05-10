@@ -205,7 +205,6 @@
 +keep: 943 862 1
 +small house: 1161 2683 1
 +tower: 1946 3423 1
-+marble shop: 3505 2581 1
 +villa: 1898 2074 1
 +keep: 1740 971 1
 +sandstone patio: 1831 664 1
@@ -454,7 +453,6 @@
 +marble shop: 1810 233 1
 +marble shop: 759 807 1
 +keep: 2016 813 1
-+small house: 1476 881 1
 +small tower: 2166 646 1
 +small house: 2664 581 1
 +log cabin: 4400 1457 1
@@ -1121,7 +1119,6 @@
 +tower: 3163 73 1
 +marble shop: 3010 206 1
 +large house: 3469 422 1
-+two story house: 2241 856 1
 +small tower: 2322 909 1
 +marble shop: 2781 748 1
 +two story house: 4127 356 1
@@ -1908,7 +1905,6 @@
 +marble shop: 1510 2848 1
 +tower: 1793 3003 1
 +tower: 1792 3025 1
-+small tower: 2868 337 1
 +small house: 2070 2094 1
 +tower: 2552 1246 1
 +small tower: 914 2311 1
@@ -1920,7 +1916,6 @@
 +log cabin: 4753 3492 1
 +villa: 1798 2982 1
 +marble shop: 1788 2982 1
-+sandstone patio: 742 727 1
 +villa: 3320 255 1
 +small house: 2009 136 1
 +small house: 2665 712 1
@@ -2027,7 +2022,6 @@
 +villa: 899 886 1
 +villa: 704 1005 1
 +marble shop: 797 2290 1
-+stone shop: 2665 429 1
 +small tower: 1897 520 1
 +small tower: 2749 733 1
 +marble shop: 695 680 1
@@ -2049,7 +2043,6 @@
 +small house: 1821 2359 1
 +small house: 1808 2369 1
 +villa: 1503 2463 1
-+marble shop: 1882 867 1
 +large house: 1694 554 1
 +small house: 2393 943 1
 +fortress: 2149 541 1
@@ -2169,7 +2162,6 @@
 +sandstone patio: 816 770 1
 +sandstone patio: 815 752 1
 +small house: 833 755 1
-+villa: 699 719 1
 +small tower: 1594 1421 1
 +small house: 963 854 1
 +stone shop: 757 697 1
@@ -2181,8 +2173,6 @@
 +small house: 4403 1270 1
 +stone shop: 2782 503 1
 +log cabin: 808 453 1
-+small house: 731 705 1
-+small house: 745 698 1
 +marble shop: 1915 908 1
 +villa: 2256 874 1
 +log cabin: 1916 3414 1
@@ -2199,5 +2189,15 @@
 +tower: 1869 1451 1
 +marble shop: 2339 786 1
 +small house: 1734 1030 1
++marble shop: 1851 841 1
++log cabin: 2317 712 1
++stone shop: 3506 2581 1
++villa: 1152 605 1
++small house: 701 715 1
++small house: 730 703 1
++small house: 745 697 1
++villa: 744 726 1
++small house: 1874 2608 1
++small house: 2241 854 1
 
 +EOF
