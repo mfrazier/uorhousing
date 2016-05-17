@@ -1136,7 +1136,6 @@
 +keep: 1137 2945 1
 +villa: 3137 67 1
 +keep: 1115 2813 1
-+villa: 1041 3210 1
 +two story house: 850 777 1
 +villa: 2921 3548 1
 +marble shop: 2455 122 1
@@ -1238,7 +1237,6 @@
 +tower: 1708 908 1
 +sandstone patio: 960 786 1
 +keep: 2052 1234 1
-+stone shop: 985 1354 1
 +small tower: 1995 1508 1
 +marble patio: 1526 2816 1
 +large house: 4093 625 1
@@ -2018,7 +2016,6 @@
 +villa: 1888 3129 1
 +villa: 1724 2212 1
 +large house: 2056 2174 1
-+small tower: 1125 1066 1
 +small house: 822 2125 1
 +small house: 2536 73 1
 +villa: 1215 2151 1
@@ -2117,7 +2114,6 @@
 +villa: 3295 621 1
 +two story house: 768 671 1
 +stone shop: 2463 122 1
-+log cabin: 1709 2346 1
 +small house: 2552 731 1
 +tower: 1869 1451 1
 +marble shop: 2339 786 1
@@ -2144,10 +2140,8 @@
 +small tower: 930 481 1
 +small house: 1552 1258 1
 +keep: 987 556 1
-+two story house: 990 532 1
 +log cabin: 1006 542 1
 +small tower: 1009 576 1
-+small house: 945 566 1
 +marble shop: 2701 136 1
 +marble shop: 2693 143 1
 +villa: 2428 199 1
@@ -2159,10 +2153,8 @@
 +tower: 923 2560 1
 +tower: 1766 1075 1
 +villa: 1504 2755 1
-+tower: 1624 579 1
 +tower: 4735 3829 1
 +small house: 1381 2081 1
-+two story house: 2241 856 1
 +marble shop: 1818 3033 1
 +log cabin: 2734 321 1
 +keep: 2215 3382 1
@@ -2174,16 +2166,31 @@
 +stone shop: 1854 967 1
 +small tower: 741 797 1
 +small house: 4609 1353 1
-+small house: 949 553 1
 +log cabin: 958 557 1
-+small house: 971 535 1
 +marble shop: 1897 840 1
 +marble shop: 737 2134 1
 +villa: 1918 1218 1
-+marble shop: 1962 866 1
 +villa: 3001 3598 1
 +sandstone patio: 816 770 1
 +small tower: 1694 2912 1
 +small house: 1423 2097 1
++sandstone patio: 968 536 1
++small tower: 969 582 1
++villa: 1547 628 1
++small house: 2630 886 1
++two story house: 1980 2339 1
++two story house: 990 532 1
++small tower: 717 636 1
++small house: 4549 1157 1
++two story house: 1586 555 1
++small tower: 1475 881 1
++tower: 1624 579 1
++small house: 948 559 1
++patio house: 4208 472 1
++marble shop: 1950 889 1
++marble shop: 2057 423 1
++marble shop: 753 862 1
++marble shop: 757 875 1
++two story house: 2241 856 1
 
 +EOF
