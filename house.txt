@@ -1464,7 +1464,6 @@
 +villa: 2133 2084 1
 +marble patio: 4775 3770 1
 +small tower: 681 861 1
-+log cabin: 1491 1387 1
 +small tower: 933 1111 1
 +tower: 2031 746 1
 +small house: 1637 1467 1
@@ -1589,7 +1588,6 @@
 +small tower: 1940 103 1
 +small tower: 981 659 1
 +small house: 4322 1126 1
-+tower: 1517 684 1
 +tower: 2732 380 1
 +keep: 2108 2377 1
 +small tower: 3950 416 1
@@ -1665,7 +1663,6 @@
 +tower: 1883 1134 1
 +villa: 1323 660 1
 +tower: 385 1325 1
-+small house: 750 1262 1
 +sandstone patio: 1570 1114 1
 +small tower: 865 2380 1
 +small tower: 1895 171 1
@@ -1766,12 +1763,10 @@
 +two story house: 1644 2675 1
 +villa: 717 1946 1
 +large house: 912 956 1
-+large house: 3050 240 1
 +small house: 1574 878 1
 +tower: 824 2384 1
 +tower: 1669 1385 1
 +sandstone patio: 218 1403 1
-+patio house: 1165 2876 1
 +patio house: 2092 516 1
 +villa: 4417 1438 1
 +small tower: 806 2394 1
@@ -1779,7 +1774,6 @@
 +small tower: 242 1026 1
 +small tower: 2723 1120 1
 +marble shop: 1711 1200 1
-+villa: 847 621 1
 +villa: 2146 2158 1
 +tower: 4225 708 1
 +large house: 2254 938 1
@@ -1800,7 +1794,6 @@
 +log cabin: 1278 1336 1
 +small house: 1898 2928 1
 +tower: 1886 505 1
-+small house: 2537 1032 1
 +sandstone patio: 705 664 1
 +tower: 909 848 1
 +tower: 1277 663 1
@@ -1894,7 +1887,6 @@
 +small tower: 1855 2069 1
 +log cabin: 1929 2126 1
 +small house: 862 830 1
-+villa: 1842 2995 1
 +marble shop: 784 767 1
 +sandstone patio: 2692 636 1
 +small tower: 2514 1262 1
@@ -1919,7 +1911,6 @@
 +small house: 1502 1876 1
 +small tower: 1537 1921 1
 +small house: 720 620 1
-+marble shop: 1755 2804 1
 +small house: 1505 2771 1
 +tower: 2556 73 1
 +log cabin: 754 1880 1
@@ -1950,7 +1941,6 @@
 +tower: 2003 772 1
 +patio house: 2137 342 1
 +small house: 3995 604 1
-+marble shop: 2357 1189 1
 +small tower: 2606 935 1
 +small tower: 4529 1312 1
 +two story house: 2114 1956 1
@@ -2031,7 +2021,6 @@
 +villa: 1182 2888 1
 +tower: 2015 710 1
 +sandstone patio: 1982 835 1
-+small tower: 2018 727 1
 +villa: 1277 1369 1
 +small tower: 1145 2804 1
 +small tower: 2790 2224 1
@@ -2071,7 +2060,6 @@
 +small house: 2698 1135 1
 +villa: 991 1893 1
 +small tower: 2737 838 1
-+patio house: 1920 949 1
 +log cabin: 743 666 1
 +villa: 2641 378 1
 +marble shop: 1846 2935 1
@@ -2107,7 +2095,6 @@
 +marble shop: 1915 908 1
 +villa: 2256 874 1
 +log cabin: 1916 3414 1
-+stone shop: 1874 952 1
 +small tower: 2073 1257 1
 +patio house: 4563 3850 1
 +tower: 950 648 1
@@ -2116,11 +2103,9 @@
 +stone shop: 2463 122 1
 +small house: 2552 731 1
 +tower: 1869 1451 1
-+marble shop: 2339 786 1
 +log cabin: 2317 712 1
 +stone shop: 3506 2581 1
 +villa: 1152 605 1
-+small house: 1874 2608 1
 +small house: 1734 1030 1
 +small tower: 1189 1480 1
 +small tower: 1178 1504 1
@@ -2130,7 +2115,6 @@
 +villa: 743 726 1
 +patio house: 2540 302 1
 +sandstone patio: 734 849 1
-+patio house: 1959 829 1
 +patio house: 2116 3441 1
 +small tower: 1587 572 1
 +tower: 1603 570 1
@@ -2140,13 +2124,11 @@
 +small tower: 930 481 1
 +small house: 1552 1258 1
 +keep: 987 556 1
-+log cabin: 1006 542 1
 +small tower: 1009 576 1
 +marble shop: 2701 136 1
 +marble shop: 2693 143 1
 +villa: 2428 199 1
 +villa: 1697 2847 1
-+villa: 3467 148 1
 +two story house: 1798 2983 1
 +stone shop: 4475 3791 1
 +small tower: 1609 2835 1
@@ -2166,7 +2148,6 @@
 +stone shop: 1854 967 1
 +small tower: 741 797 1
 +small house: 4609 1353 1
-+log cabin: 958 557 1
 +marble shop: 1897 840 1
 +marble shop: 737 2134 1
 +villa: 1918 1218 1
@@ -2185,12 +2166,25 @@
 +two story house: 1586 555 1
 +small tower: 1475 881 1
 +tower: 1624 579 1
-+small house: 948 559 1
 +patio house: 4208 472 1
 +marble shop: 1950 889 1
 +marble shop: 2057 423 1
 +marble shop: 753 862 1
 +marble shop: 757 875 1
 +two story house: 2241 856 1
++small house: 1800 3041 1
++small tower: 1754 2804 1
++patio house: 954 556 1
++log cabin: 1017 538 1
++log cabin: 1005 538 1
++small tower: 1518 686 1
++small house: 2777 906 1
++villa: 2339 785 1
++two story house: 2435 1264 1
++patio house: 3050 240 1
++tower: 1920 949 1
++small house: 1450 2347 1
++small house: 3467 149 1
++patio house: 1165 2876 1
 
 +EOF
