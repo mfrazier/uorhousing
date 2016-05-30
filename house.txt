@@ -1279,7 +1279,6 @@
 +patio house: 1942 3116 1
 +keep: 4138 628 1
 +tower: 4162 627 1
-+log cabin: 3365 592 1
 +small tower: 1275 2068 1
 +tower: 2036 2186 1
 +tower: 2150 656 1
@@ -1681,7 +1680,6 @@
 +small house: 3195 147 1
 +small tower: 4308 1159 1
 +small house: 4522 3981 1
-+small house: 2988 415 1
 +stone shop: 1843 801 1
 +small tower: 3366 298 1
 +villa: 829 702 1
@@ -1770,7 +1768,6 @@
 +small house: 1834 375 1
 +small tower: 2077 1038 1
 +tower: 2060 1035 1
-+villa: 1147 164 1
 +small tower: 1513 2822 1
 +two story house: 1347 2564 1
 +small house: 1823 3079 1
@@ -1804,7 +1801,6 @@
 +large house: 1009 611 1
 +two story house: 3459 312 1
 +villa: 3443 309 1
-+small house: 1453 1084 1
 +small tower: 1927 3436 1
 +log cabin: 847 2078 1
 +large house: 1793 2654 1
@@ -2009,7 +2005,6 @@
 +small tower: 2073 1257 1
 +patio house: 4563 3850 1
 +tower: 950 648 1
-+villa: 3295 621 1
 +two story house: 768 671 1
 +stone shop: 2463 122 1
 +small house: 2552 731 1
@@ -2047,7 +2042,6 @@
 +marble shop: 1818 3033 1
 +log cabin: 2734 321 1
 +keep: 2215 3382 1
-+villa: 2945 507 1
 +small house: 699 718 1
 +marble shop: 2011 132 1
 +small house: 1677 3382 1
@@ -2154,11 +2148,8 @@
 +small house: 1070 3171 1
 +small tower: 2819 3469 1
 +keep: 4222 682 1
-+tower: 4198 691 1
-+small house: 4199 671 1
 +small house: 1668 556 1
 +small house: 1269 374 1
-+large house: 2100 206 1
 +patio house: 2539 302 1
 +small house: 2559 167 1
 +small tower: 2666 713 1
@@ -2201,11 +2192,8 @@
 +small house: 3042 552 1
 +small house: 2647 393 1
 +small tower: 1450 1912 1
-+small house: 1122 2749 1
 +fortress: 5437 1114 1
 +sandstone patio: 2553 70 1
-+marble shop: 4185 678 1
-+small house: 4207 708 1
 +two story house: 1365 344 1
 +small house: 4645 1418 1
 +small house: 2626 112 1
@@ -2213,7 +2201,25 @@
 +small tower: 2394 1258 1
 +log cabin: 1473 1406 1
 +stone shop: 1389 1253 1
-+small house: 1682 3369 1
 +log cabin: 1915 1116 1
++marble shop: 1403 1106 1
++small house: 2587 701 1
++small house: 1461 1445 1
++small house: 2547 829 1
++small house: 1734 2729 1
++tower: 2647 154 1
++small house: 1614 1396 1
++small house: 1121 2748 1
++villa: 1875 950 1
++large house: 2100 206 1
++small house: 1683 3369 1
++keep: 4197 684 1
++small house: 1881 867 1
++small tower: 1750 3407 1
++small house: 1310 674 1
++log cabin: 1148 165 1
++small house: 4238 641 1
++small house: 1761 3493 1
++small house: 4275 3672 1
 
 +EOF
