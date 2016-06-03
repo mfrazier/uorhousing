@@ -1571,7 +1571,6 @@
 +small house: 2361 957 1
 +marble shop: 1369 1919 1
 +patio house: 1773 736 1
-+villa: 1747 617 1
 +small house: 1931 3404 1
 +log cabin: 1817 395 1
 +patio house: 3943 257 1
@@ -1874,7 +1873,6 @@
 +tower: 2086 819 1
 +two story house: 1682 3289 1
 +patio house: 2241 877 1
-+small house: 1847 2358 1
 +small house: 1821 2359 1
 +small house: 1808 2369 1
 +large house: 1694 554 1
@@ -1894,7 +1892,6 @@
 +tower: 2046 776 1
 +small house: 2554 769 1
 +small tower: 2039 111 1
-+small house: 1953 360 1
 +keep: 2160 759 1
 +log cabin: 905 2254 1
 +small house: 3500 362 1
@@ -1924,7 +1921,6 @@
 +small tower: 2790 2224 1
 +villa: 1050 2495 1
 +tower: 2136 748 1
-+sandstone patio: 1720 465 1
 +small tower: 1353 2128 1
 +villa: 1129 2870 1
 +small tower: 2327 790 1
@@ -2036,7 +2032,6 @@
 +small house: 2630 886 1
 +two story house: 1980 2339 1
 +two story house: 990 532 1
-+small tower: 717 636 1
 +small house: 4549 1157 1
 +two story house: 1586 555 1
 +small tower: 1475 881 1
@@ -2066,11 +2061,9 @@
 +tower: 1046 3171 1
 +small tower: 1009 578 1
 +small house: 849 838 1
-+small house: 860 843 1
 +villa: 933 2436 1
 +villa: 1680 559 1
 +tower: 1631 574 1
-+small tower: 1056 3496 1
 +small tower: 1931 1219 1
 +small house: 2426 1096 1
 +villa: 3153 755 1
@@ -2114,7 +2107,6 @@
 +two story house: 1767 288 1
 +small house: 1084 3101 1
 +small tower: 1972 1141 1
-+stone shop: 1932 854 1
 +small house: 1874 2973 1
 +marble shop: 1769 1115 1
 +villa: 2365 1084 1
@@ -2204,7 +2196,6 @@
 +small house: 2089 2368 1
 +small house: 2111 2393 1
 +marble shop: 2100 2356 1
-+small house: 2637 1058 1
 +marble shop: 4821 3625 1
 +large house: 2649 1152 1
 +small house: 783 691 1
@@ -2214,5 +2205,15 @@
 +small house: 1734 1030 1
 +patio house: 1973 1123 1
 +small tower: 2625 710 1
++log cabin: 1557 2361 1
++small tower: 1573 2742 1
++marble shop: 1967 853 1
++small house: 2949 479 1
++log cabin: 1846 2360 1
++small house: 859 816 1
++small house: 862 839 1
++sandstone patio: 1953 362 1
++small tower: 2050 878 1
++small house: 753 631 1
 
 +EOF
