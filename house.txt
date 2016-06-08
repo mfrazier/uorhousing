@@ -150,7 +150,6 @@
 +fortress: 3036 118 1
 +small tower: 666 922 1
 +small tower: 2891 3551 1
-+small house: 617 1492 1
 +small house: 4607 1149 1
 +villa: 802 735 1
 +villa: 2649 181 1
@@ -268,7 +267,6 @@
 +marble shop: 2766 749 1
 +sandstone patio: 847 2240 1
 +small house: 1238 1997 1
-+sandstone patio: 2454 108 1
 +sandstone patio: 852 2309 1
 +small house: 1906 2310 1
 +sandstone patio: 3744 2546 1
@@ -591,7 +589,6 @@
 +tower: 3446 130 1
 +log cabin: 845 721 1
 +tower: 2910 111 1
-+small house: 605 1468 1
 +small tower: 4623 3838 1
 +small tower: 2633 56 1
 +stone shop: 1985 1478 1
@@ -1624,7 +1621,6 @@
 +sandstone patio: 1411 1967 1
 +tower: 2170 498 1
 +log cabin: 1934 355 1
-+small tower: 2646 344 1
 +villa: 1167 2543 1
 +small tower: 4605 1449 1
 +keep: 1930 2305 1
@@ -1713,7 +1709,6 @@
 +villa: 776 1861 1
 +tower: 207 1387 1
 +small tower: 721 695 1
-+keep: 2206 848 1
 +small tower: 1411 2534 1
 +small house: 756 758 1
 +sandstone patio: 1779 2387 1
@@ -1981,7 +1976,6 @@
 +small tower: 1189 1480 1
 +small tower: 1178 1504 1
 +log cabin: 1980 424 1
-+small house: 1263 1934 1
 +villa: 743 726 1
 +sandstone patio: 734 849 1
 +patio house: 2116 3441 1
@@ -2079,7 +2073,6 @@
 +log cabin: 1122 3122 1
 +small tower: 157 1493 1
 +small tower: 4633 1380 1
-+large house: 2111 2150 1
 +villa: 1435 1403 1
 +two story house: 2303 1160 1
 +tower: 3021 550 1
@@ -2199,8 +2192,6 @@
 +keep: 2108 2378 1
 +tower: 2129 2394 1
 +small house: 1432 1091 1
-+marble shop: 1453 1083 1
-+sandstone patio: 1090 2985 1
 +sandstone patio: 3471 602 1
 +marble shop: 3175 760 1
 +small house: 800 538 1
@@ -2208,9 +2199,19 @@
 +tower: 910 850 1
 +tower: 770 1919 1
 +small tower: 1754 2804 1
-+two story house: 2737 323 1
 +two story house: 2079 3217 1
 +small tower: 2067 3232 1
 +log cabin: 3288 709 1
++small tower: 2568 88 1
++log cabin: 2630 97 1
++small tower: 2588 75 1
++stone shop: 2600 75 1
++small tower: 3337 544 1
++small tower: 2675 1054 1
++log cabin: 3296 627 1
++patio house: 2111 2151 1
++sandstone patio: 2454 109 1
++marble shop: 2413 933 1
++keep: 2207 848 1
 
 +EOF
