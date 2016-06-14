@@ -1976,6 +1976,7 @@
 +tower: 1793 3003 1
 +marble shop: 2693 143 1
 +small house: 1569 2160 1
++sandstone patio: 1766 1116 1
 +small house: 2070 2094 1
 +small tower: 2606 935 1
 +villa: 3132 175 1
@@ -2092,6 +2093,7 @@
 +patio house: 2068 838 1
 +marble shop: 1846 2935 1
 +small house: 1834 2921 1
++sandstone patio: 2347 953 1
 +stone shop: 2737 712 1
 +villa: 1277 1369 1
 +small tower: 2017 424 1
@@ -2216,7 +2218,5 @@
 +small tower: 1327 1967 1
 +small house: 4208 706 1
 +small house: 2428 1261 1
-+sandstone patio: 1766 1116 1
-+sandstone patio: 2347 953 1
 
 +EOF
