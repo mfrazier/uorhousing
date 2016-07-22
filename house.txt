@@ -1653,7 +1653,6 @@
 +small tower: 4605 1449 1
 +keep: 1930 2305 1
 +villa: 873 1107 1
-+small tower: 2690 2335 1
 +marble shop: 4563 3185 1
 +patio house: 2125 2293 1
 +villa: 4513 3139 1
@@ -1790,7 +1789,6 @@
 +large house: 1187 517 1
 +small tower: 1513 2822 1
 +small house: 2319 1248 1
-+two story house: 1627 1064 1
 +sandstone patio: 3894 292 1
 +tower: 2552 1246 1
 +tower: 2555 1222 1
@@ -1812,13 +1810,11 @@
 +small tower: 914 2311 1
 +tower: 1792 3025 1
 +tower: 1194 715 1
-+marble patio: 2087 978 1
 +large house: 4449 3248 1
 +tower: 1793 3003 1
 +small house: 1569 2160 1
 +small house: 910 2380 1
 +sandstone patio: 1766 1116 1
-+small house: 2070 2094 1
 +small tower: 2606 935 1
 +villa: 3132 175 1
 +small house: 3045 336 1
@@ -1907,7 +1903,6 @@
 +tower: 2769 1021 1
 +tower: 1576 648 1
 +marble shop: 2057 423 1
-+small house: 2949 479 1
 +tower: 2094 776 1
 +villa: 1182 2888 1
 +small house: 2453 3936 1
@@ -2000,7 +1995,6 @@
 +villa: 2233 377 1
 +patio house: 2649 1151 1
 +small tower: 2819 3469 1
-+small tower: 2394 1258 1
 +small house: 1881 867 1
 +villa: 2661 416 1
 +log cabin: 1148 165 1
@@ -2009,7 +2003,6 @@
 +small tower: 2675 1054 1
 +small house: 1626 1320 1
 +tower: 2265 1069 1
-+sandstone patio: 2452 833 1
 +small tower: 2147 2070 1
 +patio house: 2111 2151 1
 +tower: 2129 2394 1
@@ -2166,7 +2159,6 @@
 +large house: 2056 2348 1
 +large house: 2039 2348 1
 +log cabin: 1785 2718 1
-+small tower: 828 2203 1
 +two story house: 2737 323 1
 +two story house: 1797 3073 1
 +log cabin: 1598 1419 1
@@ -2183,7 +2175,6 @@
 +small house: 2075 3110 1
 +tower: 695 648 1
 +sandstone patio: 706 665 1
-+marble shop: 1859 2989 1
 +small house: 1980 129 1
 +villa: 1767 1071 1
 +villa: 4231 512 1
@@ -2206,8 +2197,15 @@
 +small tower: 1888 1523 1
 +small tower: 1458 1083 1
 +two story house: 2055 1934 1
-+tower: 1600 574 1
 +marble shop: 727 1305 1
-+tower: 1625 578 1
++small tower: 1276 1385 1
++tower: 1629 575 1
++tower: 1600 572 1
++log cabin: 993 2142 1
++villa: 1847 2990 1
++marble shop: 2623 872 1
++small house: 983 2155 1
++tower: 1898 2327 1
++two story house: 1343 3038 1
 
 +EOF
