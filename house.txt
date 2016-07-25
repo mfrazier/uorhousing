@@ -6,7 +6,6 @@
 +keep: 2682 119 1
 +tower: 2811 362 1
 +villa: 1298 1270 1
-+marble shop: 1719 2969 1
 +marble shop: 1806 2943 1
 +patio house: 2280 1099 1
 +small tower: 1267 1283 1
@@ -124,10 +123,8 @@
 +villa: 764 738 1
 +stone shop: 1808 2964 1
 +keep: 801 1338 1
-+sandstone patio: 4596 3667 1
 +fortress: 1876 2087 1
 +small house: 2975 204 1
-+marble shop: 1745 1569 1
 +villa: 1994 1492 1
 +small house: 1616 2091 1
 +small tower: 1321 2468 1
@@ -263,7 +260,6 @@
 +two story house: 4650 1383 1
 +log cabin: 4603 3319 1
 +tower: 2122 801 1
-+villa: 1991 799 1
 +castle: 2130 873 1
 +tower: 4428 3535 1
 +fortress: 2227 806 1
@@ -327,7 +323,6 @@
 +keep: 2149 195 1
 +patio house: 1337 1058 1
 +keep: 2478 186 1
-+two story house: 4611 1281 1
 +tower: 1909 1195 1
 +tower: 1797 629 1
 +small house: 2686 510 1
@@ -368,7 +363,6 @@
 +fortress: 4125 564 1
 +small house: 2977 190 1
 +two story house: 2977 222 1
-+marble shop: 1464 3056 1
 +keep: 891 2017 1
 +marble shop: 1683 1498 1
 +small house: 4663 1386 1
@@ -445,7 +439,6 @@
 +small house: 2664 581 1
 +log cabin: 4400 1457 1
 +tower: 1250 2409 1
-+marble shop: 3581 2551 1
 +keep: 1832 3105 1
 +sandstone patio: 2027 383 1
 +tower: 835 399 1
@@ -481,7 +474,6 @@
 +keep: 845 1945 1
 +log cabin: 1277 1452 1
 +stone shop: 2774 730 1
-+marble shop: 4595 1279 1
 +marble shop: 1675 1498 1
 +fortress: 1966 2311 1
 +marble shop: 4311 1066 1
@@ -751,7 +743,6 @@
 +small house: 2012 3118 1
 +small house: 1518 1889 1
 +small tower: 2674 670 1
-+stone shop: 2829 3500 1
 +marble shop: 681 781 1
 +marble patio: 2136 285 1
 +small tower: 953 1093 1
@@ -817,7 +808,6 @@
 +tower: 3963 526 1
 +fortress: 1925 1048 1
 +small tower: 711 929 1
-+marble shop: 2589 352 1
 +small house: 1131 2669 1
 +patio house: 1950 2225 1
 +two story house: 741 1897 1
@@ -842,7 +832,6 @@
 +small tower: 2735 745 1
 +small tower: 4168 569 1
 +sandstone patio: 1080 2000 1
-+marble shop: 4514 1502 1
 +marble shop: 4490 1024 1
 +small tower: 2018 1213 1
 +tower: 994 982 1
@@ -1291,7 +1280,6 @@
 +small tower: 893 2505 1
 +small house: 2247 814 1
 +villa: 4070 504 1
-+tower: 1590 1009 1
 +tower: 2227 642 1
 +small tower: 678 751 1
 +small house: 1453 1457 1
@@ -1637,7 +1625,6 @@
 +patio house: 1711 3178 1
 +marble shop: 1510 2848 1
 +large house: 1937 1006 1
-+tower: 1052 1388 1
 +stone shop: 2013 834 1
 +large house: 1835 2261 1
 +small tower: 1002 1322 1
@@ -1661,7 +1648,6 @@
 +small tower: 2641 2325 1
 +small house: 1070 3171 1
 +small house: 220 1379 1
-+marble shop: 3357 349 1
 +log cabin: 765 701 1
 +small tower: 2188 661 1
 +tower: 866 606 1
@@ -2048,7 +2034,6 @@
 +marble shop: 1511 2864 1
 +villa: 3054 556 1
 +small tower: 1610 1430 1
-+tower: 1999 1057 1
 +small house: 1389 1947 1
 +marble shop: 1199 177 1
 +villa: 962 2172 1
@@ -2095,7 +2080,6 @@
 +log cabin: 1462 2221 1
 +small house: 1064 954 1
 +villa: 1076 879 1
-+small house: 1494 890 1
 +small house: 721 615 1
 +marble shop: 1562 2094 1
 +villa: 823 374 1
@@ -2158,7 +2142,6 @@
 +small tower: 2058 3097 1
 +small house: 2033 3111 1
 +marble shop: 2023 3111 1
-+small house: 2066 3110 1
 +small house: 2072 3097 1
 +small house: 2081 3094 1
 +villa: 2044 3106 1
@@ -2195,7 +2178,6 @@
 +villa: 1847 2990 1
 +marble shop: 2623 872 1
 +small house: 983 2155 1
-+tower: 1898 2327 1
 +two story house: 1343 3038 1
 +small house: 967 2412 1
 +small house: 1606 3470 1
@@ -2204,9 +2186,28 @@
 +patio house: 2028 590 1
 +tower: 2023 567 1
 +patio house: 2137 342 1
-+small tower: 2136 3595 1
 +small house: 1061 2684 1
 +tower: 1749 455 1
++small house: 1802 731 1
++small tower: 2138 3595 1
++sandstone patio: 2145 2158 1
++villa: 2053 62 1
 +small tower: 1528 1890 1
++marble shop: 3581 2551 1
++small house: 3359 349 1
++marble shop: 1746 1570 1
++large house: 1677 559 1
++two story house: 4610 1281 1
++stone shop: 2829 3500 1
++small tower: 4515 1502 1
++sandstone patio: 4595 3666 1
++small house: 4595 1279 1
++small tower: 3014 3561 1
++small house: 1350 2907 1
++tower: 2017 709 1
++small tower: 1051 1386 1
++small house: 1897 2344 1
++tower: 1897 2327 1
++large house: 846 1920 1
 
 +EOF
